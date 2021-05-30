@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WaryaWaxbaro
 - 👀 I’m interested in web applications. Currently developing rails projects and maintaining laravel application
-- 🌱 I’m currently learning React and ReactNavtive
+- 🌱 I’m currently learning React and ReactNative
 - 💞️ I’m looking to collaborate on any web development projects
 - 📫 Reach me via email warya.waxbaro@gmail.com
 
